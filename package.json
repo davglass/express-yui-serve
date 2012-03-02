@@ -1,0 +1,27 @@
+{
+    "name": "express-yui-serve",
+    "version": "0.0.1",
+    "description": "Serving YUI from express as middleware",
+    "author": "Dav Glass <davglass@gmail.com>",
+    "bugs": { "url" : "https://github.com/davglass/express-yui-serve/issues" },
+    "os": ["darwin", "linux"],
+    "engines": {
+        "node" : ">=0.4.0"
+    },
+    "main": "./lib/index.js",
+    "dependencies": {
+        "express": ">=2.2.0 <3.0.0",
+        "yui": "~3.5.0",
+        "combohandler": "~0.1.0"
+    },
+    "licenses":[
+        {
+            "type" : "BSD",
+            "url" : "https://github.com/davglass/express-yui-serve/blob/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/davglass/express-yui-serve.git"
+    }
+}
