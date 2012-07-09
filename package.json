@@ -1,6 +1,6 @@
 {
     "name": "express-yui-serve",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Serving YUI from express as middleware",
     "author": "Dav Glass <davglass@gmail.com>",
     "bugs": { "url" : "https://github.com/davglass/express-yui-serve/issues" },
