@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/davglass/express-yui-serve.png)](http://travis-ci.org/davglass/express-yui-serve)
 Express Middleware for serving YUI
 ==================================
 
